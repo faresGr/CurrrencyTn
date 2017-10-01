@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 
         StrictMode.setThreadPolicy(policy);
-        /*TextView textView=findViewById(R.id.textView2);
+        /*TextView textView=findViewById(R.id.textView2
         textView.setText("hellloo ");
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 
